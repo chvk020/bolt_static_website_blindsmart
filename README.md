@@ -1,0 +1,1 @@
+# bolt_static_website_blindsmart
